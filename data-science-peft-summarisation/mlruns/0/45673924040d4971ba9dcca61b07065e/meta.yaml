@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sagemaker-user/data-science-peft-summarisation/mlruns/0/45673924040d4971ba9dcca61b07065e/artifacts
+end_time: 1742950796867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45673924040d4971ba9dcca61b07065e
+run_name: ./peft-dialogue-summary-training-1742950676
+run_uuid: 45673924040d4971ba9dcca61b07065e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742950743451
+status: 3
+tags: []
+user_id: sagemaker-user
